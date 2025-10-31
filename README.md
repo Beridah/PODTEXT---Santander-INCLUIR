@@ -14,7 +14,7 @@ Essa abordagem transforma a experiência de podcast em uma narrativa visual pode
 
 Porém, temos um PODCAST em LIBRAS, primeira do Brasil.
 
-## 📘 O que eu gostaria que criasse:
+## 🌟 Como funciona o PODTEXT
 
 🧾 Roteiro narrativo completo:
 Versões textuais dos episódios, com diálogos, emoções e pausas descritas visualmente.
@@ -40,20 +40,20 @@ O projeto criado por uma pessoa ouvinte, a proposta é genial, acesse para saber
 
 ## 🚀 Objetivo do Projeto
 
-Demonstrar que a IA e a criatividade podem transformar a forma de se comunicar, criando conteúdo inclusivo para todos.
-O PODTEXT transforma o tradicional podcast em uma experiência visual interativa, que gera pertencimento e visibilidade para pessoas surdas ou com qualquer necessidade de acessibilidade.
+Demonstrar que IA e criatividade podem criar conteúdo inclusivo, permitindo que histórias, conhecimento e emoções sejam transmitidos apenas pela visão e leitura.
+
+O PODTEXT promove pertencimento e visibilidade para pessoas surdas ou com necessidades de acessibilidade.
 
 ## 🏢 Sobre o Santander Incluir
 
-O Santander Incluir reforça o compromisso do banco com diversidade e acessibilidade.
-O projeto não apenas adapta conteúdos existentes, mas cria novas formas de comunicação, mostrando que ouvir também pode ser enxergar, sentir e compreender com o olhar.
+O Santander Incluir reforça o compromisso do banco com diversidade e acessibilidade, mostrando que ouvir também pode ser sentir, enxergar e compreender com o olhar.
 
 [Acesse aqui](https://github.com/Beridah/Projeto-EBOOK-Gerado-por-I.A.s)
 
 “Nem todo som é ouvido, mas toda voz pode ser vista.”
 — Santander Incluir ❤️
 
-🤝 Desenvolvido com carinho por:
+Vem ser Santander e ser inclusiva conosco!
 
 Bianca Sousa
 Criadora do PODTEXT — narrativa visual inclusiva e inovadora.
